@@ -3,7 +3,6 @@ from tkinter import ttk
 
 root = Tk()
 root.title("02 - Tipos de datos")
-root.iconbitmap("name.ico")
 frm = ttk.Frame(root, padding=10)
 frm.grid()
 
